@@ -1,0 +1,11 @@
+[alias]
+    st = status
+    co = checkout
+[diff]
+    tool = meld
+    external = /home/yubo/bin/git_meld.sh
+[difftool]
+    prompt = false
+[user]
+    name = Yu.Yue
+    email = yubo.yue@163.com
