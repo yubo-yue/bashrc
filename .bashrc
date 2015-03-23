@@ -3,7 +3,7 @@
 
 
 # Welcome message 
-echo -ne "Good Morning,OESPIRIT!. It's "; date '+%A, %B %-d %Y'
+echo -ne "Good Morning, Yubo!. It's "; date '+%A, %B %-d %Y'
 uptime
 echo -e "And now your moment of Zen:"; fortune
 
